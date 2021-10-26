@@ -5,7 +5,7 @@ My personal take on the [Fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz) pro
 ## Run
 
 ``` sh
-python script.py
+$ python script.py
 1
 2
 Fizz
@@ -18,7 +18,7 @@ Buzz
 ## Tests
 
 ``` sh
-python -m unittest discover
+$ python -m unittest discover
 .....
 ----------------------------------------------------------------------
 Ran 5 tests in 0.001s
