@@ -19,9 +19,9 @@ Buzz
 
 ``` sh
 python -m unittest discover
-....
+.....
 ----------------------------------------------------------------------
-Ran 4 tests in 0.001s
+Ran 5 tests in 0.001s
 
 OK
 ```

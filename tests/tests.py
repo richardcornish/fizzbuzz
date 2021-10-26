@@ -7,6 +7,9 @@ class TestFizzBuzz(unittest.TestCase):
     def setUp(self):
         self.fb = FizzBuzz()
 
+    def test_integer(self):
+        self.assertEqual(self.fb.get_line(1), "1")
+
     def test_fizz(self):
         self.assertEqual(self.fb.get_line(3), "Fizz")
 
