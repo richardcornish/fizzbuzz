@@ -2,7 +2,7 @@
 
 My personal take on the [Fizz buzz](https://en.wikipedia.org/wiki/Fizz_buzz) programming challenge.
 
-## Run
+## Usage
 
 ``` sh
 $ python script.py
